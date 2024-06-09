@@ -10,16 +10,16 @@ services:
     environment:
       - SPRING_DATASOURCE_URL=jdbc:mysql://db:3306/dishlist
       - SPRING_DATASOURCE_USERNAME=admin
-      - SPRING_DATASOURCE_PASSWORD=|]{>#k3siGE}}o9kyCtY2t]9MdvC
+      - SPRING_DATASOURCE_PASSWORD=BonnKirnbach56!
       - SPRING_DATASOURCE_DRIVER_CLASS_NAME=com.mysql.cj.jdbc.Driver
 
   db:
     image: mysql:5.7
     environment:
-      - MYSQL_ROOT_PASSWORD=|]{>#k3siGE}}o9kyCtY2t]9MdvC
+      - MYSQL_ROOT_PASSWORD=BonnKirnbach56!
       - MYSQL_DATABASE=dishlist
       - MYSQL_USER=admin
-      - MYSQL_PASSWORD=|]{>#k3siGE}}o9kyCtY2t]9MdvC
+      - MYSQL_PASSWORD=BonnKirnbach56!
     volumes:
       - db_data:/var/lib/mysql
       - ./my.cnf:/etc/mysql/conf.d/my.cnf
