@@ -15,8 +15,6 @@ X
 TFrontend/src/app/listen-container/rezept-erstellung/rezept-erstellung.component.html,d\f\dfc5f470f18dea772ef864b08d80212b52312d02
 S
 #Frontend/src/app/app.component.html,9\3\9345d4e37836356134a20a446053d32434f56608
-B
-Backend/.env.local,d\e\de90dc9ebd6ecc3a6c64575bc36e992a9b39f6a6
 C
 Frontend/.gitignore,6\6\663059bfd1b29d4d14f841241270ae94c4065a6b
 B
@@ -51,3 +49,5 @@ u
 EFrontend/src/app/listen-container/rezepteliste/rezepteliste.module.ts,7\5\7587ab51148edeeefb61af7fadd0902db1bbe6b2
 b
 2Frontend/src/app/shared/dialog/dialog.component.ts,2\f\2fe6e174953d330e7d56c531e146d4add51fc3fb
+H
+Backend/config/.env.prod,2\8\2872b46b081732f8e5630e0f726c210e2af26ca9
