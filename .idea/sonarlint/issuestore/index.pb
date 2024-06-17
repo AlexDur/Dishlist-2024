@@ -23,8 +23,6 @@ X
 (Frontend/src/environments/config.prod.ts,7\3\737451729213ffdd3809e1f3eb6b4a3710b2245b
 S
 #Frontend/src/environments/config.ts,7\7\770c5f2f3e503b264223bddf1930259e859d19d3
-@
-nginx/nginx.conf,6\6\665698d0c16ad6d96892b8344874c01c8e00f8f7
 B
 docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
 ¸
@@ -51,3 +49,5 @@ b
 2Frontend/src/app/shared/dialog/dialog.component.ts,2\f\2fe6e174953d330e7d56c531e146d4add51fc3fb
 H
 Backend/config/.env.prod,2\8\2872b46b081732f8e5630e0f726c210e2af26ca9
+I
+Backend/config/.env.local,9\6\96479aede02884aa913554410a6c8173561762bb
